@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SendRandom:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SendRandom_jar</output-path>
+    <root id="archive" name="SendRandom.jar">
+      <element id="module-output" name="SendRandom" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/activation-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javax.mail.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
