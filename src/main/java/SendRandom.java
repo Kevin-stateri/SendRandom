@@ -6,6 +6,7 @@ import java.util.concurrent.TimeUnit;
 import javax.mail.*;
 import javax.mail.internet.*;
 
+
 public class SendRandom {
 
     public static void main(String[] args) throws InterruptedException, MessagingException {
