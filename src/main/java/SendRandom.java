@@ -3,10 +3,8 @@ import java.util.Properties;
 import java.util.Date;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
-import javax.activation.*;
 import javax.mail.*;
 import javax.mail.internet.*;
-import com.sun.mail.smtp.*;
 
 public class SendRandom {
 
