@@ -30,7 +30,7 @@ class DemoApplicationTests {
 		do {
 			Line = GetLine(source, rand.nextInt(numLines) + 1);
 			System.out.println(Line);
-			//Send(Line, Email, Password, Receiver);
+			// Send(Line, Email, Password, Receiver);
 			TimeUnit.SECONDS.sleep(5);
 		} while (true);
 	}
